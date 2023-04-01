@@ -76,6 +76,7 @@
                     </td>
                     <td>
                         <button class="btn btn-success">Edit</button>
+                        
                         <button class="btn btn-danger">Hapus</button>
                     </td>
                 </tr>
